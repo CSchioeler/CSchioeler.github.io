@@ -1,6 +1,6 @@
-baseURL: https://hugo-paper.vercel.app/
-author: Steve Francia
-copyright: Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.
+baseURL: https://cschioelerhansen.netlify.app/
+author: Christian Schiøler Hansen
+copyright: Copyright © 2023, Christian Schiøler Hansen; all rights reserved.
 paginate: 3
 languageCode: en
 DefaultContentLanguage: en
