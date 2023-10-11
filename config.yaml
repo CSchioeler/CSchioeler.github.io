@@ -9,11 +9,11 @@ ignoreErrors: error-remote-getjson
 theme: hugo-paper
 title: Christian Schiøler Hansen
 params:
-  avatar: nanxiaobei@gmail.com
-  bio: Discover fresh context
+  avatar: christianschioeler@gmail.com
+  bio: Explore my content
   color: linen
-  github: nanxiaobei
-
+  github: CSchioeler
+  twitch: suspicioussamaritan
   name: Christian
   twitter: CSchiolerHansen
 markup:
